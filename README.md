@@ -9,7 +9,7 @@ This project demonstrates how to deploy the open-source [BLOOMZ-1b1](https://hug
 - Load and run BLOOMZ-1b1 locally (on-premises)
 - Lightweight REST API for text generation (likely OpenAI Server)
 - Token completion with configurable max tokens
-- Optionally quantized for lower VRAM usage (Q_8)
+- Optionally quantized for lower VRAM usage ([Q_8](https://huggingface.co/tensorblock/bloomz-1b1-GGUF/tree/main))
 - Easy to run with Docker
 
 ---
