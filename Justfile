@@ -16,3 +16,4 @@ stop-llm:
 
 start-llm: stop-llm
     docker-compose --profile llm -p llm-lab -f docker/docker-compose.yml up -d
+
